@@ -1,7 +1,11 @@
 {
   "name": "writers-room",
+  "displayName": "Writers' Room",
   "description": "Claude skills for screenwriters. They give notes on your pages. They never write the script for you.",
   "author": {
     "name": "Craig Henry"
-  }
+  },
+  "homepage": "https://github.com/tessera1985/writers-room",
+  "repository": "https://github.com/tessera1985/writers-room",
+  "license": "MIT"
 }
