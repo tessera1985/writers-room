@@ -1,0 +1,14 @@
+{
+  "name": "writers-room",
+  "description": "Claude skills for screenwriters. They give notes on your pages. They never write the script for you.",
+  "owner": {
+    "name": "Craig Henry"
+  },
+  "plugins": [
+    {
+      "name": "writers-room",
+      "source": "./",
+      "description": "Claude skills for screenwriters. They give notes on your pages. They never write the script for you."
+    }
+  ]
+}
